@@ -29,11 +29,6 @@
 37@1@152@Pet Panda@170@500@EXP 10% increase           #Collets Zen around           #Increase defensive skill +50.@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1520|@6736@2@3@1520|1521|1522|@0@508@669
 37@2@153@Imp@170@500@Increase Attack Power and Wizardry@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1530|@6657@2@1@1530|@0@508@669
 37@3@154@Guardian Angel@170@500@Absorb Damage  #Increase HP +50@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1540|@6656@2@1@1540|@0@508@669
-38@1@179@Low Box +1@170@200@Contains the same items as the Box of Kundun +1, but never Epic rarity.@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1790|@7357@2@1@1790|@0@508@669
-38@2@180@Low Box +2@170@400@Contains the same items as the Box of Kundun +2, but never Epic rarity.@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1800|@7358@2@1@1800|@0@508@669
-38@3@181@Low Box +3@170@600@Contains the same items as the Box of Kundun +3, but never Epic rarity.@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1810|@7359@2@1@1810|@0@508@669
-38@4@182@Low Box +4@170@800@Contains the same items as the Box of Kundun +4, but never Epic rarity.@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1820|@7360@2@1@1820|@0@508@669
-38@5@183@Low Box +5@170@1000@Contains the same items as the Box of Kundun +5, but never Epic rarity.@@182@185@0@0@177@1@VisionCoin@VisionCoin@181@200@0@1830|@7361@2@1@1830|@0@508@669
 41@1@123@Blood Castle Ticket@170@80@Use to event Blood Castle ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1230|@6703@3@1@1230|@0@509@669
 41@2@124@Devil Square Ticket@170@80@Use to event Devil Square ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1240|@6702@3@1@1240|@0@509@669
 41@3@125@Kalima Ticket@170@80@Ticket Kalima ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1250|@6704@3@1@1250|@0@509@669
