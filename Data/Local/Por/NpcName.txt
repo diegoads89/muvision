@@ -747,4 +747,5 @@
 932   1     "Monster of the Water Boss"
 933   1     "Bloody Beam Knight Boss"
 934   1     "Bloody Tantalos Boss"
+935   1     "Death King"
 end
