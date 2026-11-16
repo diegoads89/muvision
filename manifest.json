@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.7",
   "files": [
     {
       "path": "GameGuard.exe",
@@ -8,13 +8,13 @@
     },
     {
       "path": "Main.exe",
-      "size": 22972928,
-      "hash": "5132b7f53231145fcaafb91bba62597e6c02a841fd4415fe13a84f5c191255f9"
+      "size": 22977536,
+      "hash": "89b1bca557fa3997084552f95706bed70e40cf18481f87590befe714a8ad9608"
     },
     {
       "path": "Data/av-code45.pak",
       "size": 189561,
-      "hash": "9df2a569852d6efac08ac936c148bb72972f0e9e39e80a63f78aa277644ca3fc"
+      "hash": "229b3334671161a7c54971f51d06018d8e8cab30a94fd1406a63c29892940029"
     },
     {
       "path": "Excluir/livekit.dll",
@@ -2514,7 +2514,7 @@
     {
       "path": "Data/InGameShopScript/512.2011.006/IBSComingSoon.txt",
       "size": 328,
-      "hash": "7828f1d5c61a51164d80c257eb70639c2abf87604fb2a39ce049563fc64c7285"
+      "hash": "267fe124043f1b37157b21baceb6f724965f894d19f0cb5e68e7689cdc284b44"
     },
     {
       "path": "Data/InGameShopScript/512.2011.006/IBSPackage.txt",
@@ -2673,13 +2673,13 @@
     },
     {
       "path": "Data/Update/Legend/Main.exe",
-      "size": 22972928,
-      "hash": "5132b7f53231145fcaafb91bba62597e6c02a841fd4415fe13a84f5c191255f9"
+      "size": 22977536,
+      "hash": "89b1bca557fa3997084552f95706bed70e40cf18481f87590befe714a8ad9608"
     },
     {
       "path": "Data/Update/Original/Main.exe",
-      "size": 22972928,
-      "hash": "5132b7f53231145fcaafb91bba62597e6c02a841fd4415fe13a84f5c191255f9"
+      "size": 22977536,
+      "hash": "89b1bca557fa3997084552f95706bed70e40cf18481f87590befe714a8ad9608"
     },
     {
       "path": "Excluir/Data/World1/TileGround01x_n.OZJ",
@@ -4517,6 +4517,16 @@
       "hash": "5af673647e639417a24cbe9dd0db54995014d4ded5795cf911ecb37df04894f4"
     },
     {
+      "path": "Data/Interface/Pegasus/Pegasus_Main/pg_exp_tick.OZT",
+      "size": 4144,
+      "hash": "2ba1fcc87b1cd41e1d5f681e4b5e7d64a1eee02e5671f90840a0ab9f3e0869dd"
+    },
+    {
+      "path": "Data/Interface/Pegasus/Pegasus_Main/pg_hud_gear.OZT",
+      "size": 32790,
+      "hash": "5b144e5d9d369f05df0f9b429776267b933b2da405e45d665f33fbad80f31734"
+    },
+    {
       "path": "Data/Local/Eng/ImgsMapName/Colosseum.ozt",
       "size": 59782,
       "hash": "ee7b8f3615096b577ad7fcebf7533c4e12a4730fa4c7935cf5edd03fc841dd9a"
@@ -4909,12 +4919,12 @@
     {
       "path": "Data/Update/Legend/Data/av-code45.pak",
       "size": 189561,
-      "hash": "b8ac810edd140651f5b0b3439e1b0ff87d6138c7f396e909f266452e44c0c77e"
+      "hash": "0275a48b499f8d8b4c03cd85a2df8aedf320e2598e7d321579bf82cd594b3ea1"
     },
     {
       "path": "Data/Update/Original/Data/av-code45.pak",
       "size": 189561,
-      "hash": "960289ecf95cf4027962d47d865018d14681b1607b068630e0d100cb7c4a2069"
+      "hash": "ed834f461ad527c0401f268227515da29660dd5337b4a3824f682c81bbba6619"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Connect.msil",
