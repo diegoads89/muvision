@@ -45,9 +45,9 @@
 42@6@176@Broken Mire Key@170@75@Broken key of Sunken Mire. Repair it with a Chaos Machine mix to get the Mire Key.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1760|@7315@3@1@1760|@0@509@669
 42@7@177@Broken Catacomb Key@170@100@Broken key of Forsaken Catacombs. Repair it with a Chaos Machine mix to get the Catacomb Key.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1770|@7316@3@1@1770|@0@509@669
 42@8@178@Broken Abyss Key@170@125@Broken key of Karutan Abyss. Repair it with a Chaos Machine mix to get the Abyss Key.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1780|@7317@3@1@1780|@0@509@669
-42@9@194@Low Box +1@170@100@Contains the same items as the Box of Kundun +1, but never Epic rarity.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1940|@7357@3@1@1940|@0@509@669
-42@10@195@Low Box +2@170@200@Contains the same items as the Box of Kundun +2, but never Epic rarity.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1950|@7358@3@1@1950|@0@509@669
-42@11@196@Low Box +3@170@300@Contains the same items as the Box of Kundun +3, but never Epic rarity.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1960|@7359@3@1@1960|@0@509@669
+46@1@194@Low Box +1@170@100@Contains the same items as the Box of Kundun +1, but never Epic rarity.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1940|@7357@3@1@1940|@0@509@669
+46@2@195@Low Box +2@170@200@Contains the same items as the Box of Kundun +2, but never Epic rarity.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1950|@7358@3@1@1950|@0@509@669
+46@3@196@Low Box +3@170@300@Contains the same items as the Box of Kundun +3, but never Epic rarity.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1960|@7359@3@1@1960|@0@509@669
 43@1@109@Scroll of Wizardry Enhance@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1090|@7708@3@1@1090|@0@509@669
 43@2@111@Scroll of Gigantic Storm@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1110|@7709@3@1@1110|@0@509@669
 43@3@112@Crystal of Destruction@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1120|@6188@3@1@1120|@0@509@669
