@@ -37,3 +37,23 @@
 237     3021                   20      30      1.00  0.35  0.15  0       // Charon (Chaos Castle)
 236     CashshopCategory_21    20      30      1.00  0.55  0.85  0       // Golden Archer
 241     UIKit_I242             20      30      1.00  0.62  0.25  0       // Royal Guard Captain Lorence
+913     UIKit_I242             20      30      1.00  0.62  0.25  0       // Zouk (armas; Sacred Glove do RF) -- 17/11/2026
+547     UIKit_I2D4             20      30      1.00  0.80  0.30  0       // Market Union Member Julia (leva para Lorencia/Market) -- 17/11/2026
+545     UIKit_I2D4             20      30      1.00  0.80  0.30  0       // Christine the General Goods Merchant -- 17/11/2026
+577     UIKit_I2D4             20      30      1.00  0.80  0.30  0       // Leina the General Goods Merchant -- 17/11/2026
+568     UIKit_I2D4             20      30      1.00  0.80  0.30  0       // Wandering Merchant Zyro -- 17/11/2026
+478     UIKit_I2D4             20      30      1.00  0.80  0.30  0       // Delgado -- 17/11/2026
+579     UIKit_I2D4             20      30      1.00  0.80  0.30  0       // David -- 17/11/2026
+578     UIKit_I242             20      30      1.00  0.62  0.25  0       // Weapons Merchant Bolo -- 17/11/2026
+546     Socket                 20      30      0.75  0.35  1.00  0       // Jeweler Raul -- 17/11/2026
+452     Socket                 20      30      0.75  0.35  1.00  0       // Seed Master (socket) -- 17/11/2026
+453     Socket                 20      30      0.75  0.35  1.00  0       // Seed Researcher (socket) -- 17/11/2026
+415     UIKit_I246             20      30      1.00  0.40  0.25  0       // Silvia (Elbeland) -- 17/11/2026
+416     UIKit_I242             20      30      1.00  0.62  0.25  0       // Rhea (Elbeland) -- 17/11/2026
+417     UIKit_I26C             20      30      0.70  0.45  1.00  0       // Marce (Elbeland) -- 17/11/2026
+543     Knights_1              20      30      0.75  0.85  1.00  0       // Gens Duprian Steward -- 17/11/2026
+544     Knights_1              20      30      0.75  0.85  1.00  0       // Gens Vanert Steward -- 17/11/2026
+479     Knights_1              20      30      0.75  0.85  1.00  0       // Doorkeeper Titus (Duelo) -- 17/11/2026
+540     3021                   20      30      1.00  0.35  0.15  0       // Lugard (Doppelganger) -- 17/11/2026
+522     3021                   20      30      1.00  0.35  0.15  0       // Jerint the Assistant (Imperial Guardian) -- 17/11/2026
+375     3021                   20      30      1.00  0.35  0.15  0       // Chaos Card Master -- 17/11/2026
