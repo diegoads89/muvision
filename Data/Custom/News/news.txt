@@ -1,0 +1,33 @@
+# NOVIDADES DO CLIENTE (Data\Custom\News\news.txt) - UTF-8 sem BOM. O launcher atualiza este arquivo.
+#
+# version = qualquer texto. Mudou = a janela abre sozinha UMA vez para todo jogador (depois de entrar no mapa).
+#           Sem a linha "version", vale o hash do arquivo inteiro (qualquer edicao reabre).
+# banner  = <nome> | <acao>   (ate' 4; mais de um = trocam a cada 6 s)
+#           imagem: Data\Custom\News\<nome>-por.OZT / -eng.OZT / -spn.OZT (sem a do idioma: <nome>.OZT); 4:1, ex. 960x240
+#           acao ao clicar: battlepass (F8 > Battle Pass), cashshop (Cash Shop) ou none
+# [Por]
+## Manutenção de 22/11
+- Bosses mais resistentes: Red Dragon, White Wizard e Golden +3 com cerca de 3 milhões de vida; Ice Queen com 2,5 milhões; Evomon nível 3 com 2 milhões.
+- EXP mais rápida para quem está começando: resets 0 a 2 com o triplo de EXP e reset 3 com o dobro.
+- Em Aida, as joias agora caem também dos monstros de nível 72 a 74.
+- O Battle Pass Premium baixou para 2.500 Vision Coin.
+- Novo botão Info no Battle Pass, com as regras da temporada.
+- Correção do requisito de comando dos pergaminhos do Dark Lord: Summon pede 400 de comando, Critical Damage 300, Electric Spark 340 e Fire Scream 70.
+
+[Eng]
+## Maintenance of 11/22
+- Tougher bosses: Red Dragon, White Wizard and Golden +3 now have about 3 million HP; Ice Queen 2.5 million; Evomon level 3 2 million.
+- Faster EXP for newer players: resets 0 to 2 get triple EXP and reset 3 gets double EXP.
+- In Aida, jewels now also drop from level 72 to 74 monsters.
+- Battle Pass Premium is now 2,500 Vision Coin.
+- New Info button in the Battle Pass with the season rules.
+- Fixed the command requirement of the Dark Lord scrolls: Summon needs 400 command, Critical Damage 300, Electric Spark 340 and Fire Scream 70.
+
+[Spn]
+## Mantenimiento del 22/11
+- Jefes más resistentes: Red Dragon, White Wizard y Golden +3 con cerca de 3 millones de vida; Ice Queen con 2,5 millones; Evomon nivel 3 con 2 millones.
+- EXP más rápida para quien está empezando: resets 0 a 2 con el triple de EXP y reset 3 con el doble.
+- En Aida, las joyas ahora también caen de los monstruos de nivel 72 a 74.
+- El Battle Pass Premium bajó a 2.500 Vision Coin.
+- Nuevo botón Info en el Battle Pass, con las reglas de la temporada.
+- Corregido el requisito de comando de los pergaminos del Dark Lord: Summon pide 400 de comando, Critical Damage 300, Electric Spark 340 y Fire Scream 70.
