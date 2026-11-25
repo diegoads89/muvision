@@ -1,5 +1,5 @@
 {
-  "version": "1.5.7",
+  "version": "1.11",
   "files": [
     {
       "path": "GameGuard.exe",
@@ -8,13 +8,13 @@
     },
     {
       "path": "Main.exe",
-      "size": 22977536,
-      "hash": "89b1bca557fa3997084552f95706bed70e40cf18481f87590befe714a8ad9608"
+      "size": 23269888,
+      "hash": "56a9aca8fc5703fda847514a5f515d33f35dde0431402aa48c9a8f2cd89d06f0"
     },
     {
       "path": "Data/av-code45.pak",
-      "size": 189561,
-      "hash": "229b3334671161a7c54971f51d06018d8e8cab30a94fd1406a63c29892940029"
+      "size": 189573,
+      "hash": "42fc72b4f00a38cae174993666dcb014a223ce13c113e801979d3005b34fec75"
     },
     {
       "path": "Excluir/livekit.dll",
@@ -2502,29 +2502,49 @@
       "hash": "8a66a13b026df989f33d533d223db9f366ef0e98e099dee50b3b5f80188a6306"
     },
     {
+      "path": "Data/Custom/News/battlepass-eng.OZT",
+      "size": 252716,
+      "hash": "3fe08e78be23923dd47a2f5e82d5d28406a1c507bda78e4a4b5bbb39bf51eb6c"
+    },
+    {
+      "path": "Data/Custom/News/battlepass-por.OZT",
+      "size": 251038,
+      "hash": "a0d04aabc69a031b54ff7a4f30ce5ae7d48ce65cb53bd73d7a5bd73885317ded"
+    },
+    {
+      "path": "Data/Custom/News/battlepass-spn.OZT",
+      "size": 250826,
+      "hash": "b03422cf844b722c25047b10500bada3b80f7ca075e2927e918478852a468842"
+    },
+    {
+      "path": "Data/Custom/News/news.txt",
+      "size": 3682,
+      "hash": "079d8553b2817c2292f729bddedfb778f51062ca918781a6d8eeb599c0a67fb4"
+    },
+    {
       "path": "Data/Engine/Sky/SkyConfig.json",
       "size": 13365,
       "hash": "2b5419a3f665dcc439659f817c0a02373e8b2684a7a8c1865a69f29fd31dff85"
     },
     {
       "path": "Data/InGameShopScript/512.2011.006/IBSCategory.txt",
-      "size": 389,
-      "hash": "da96e7e974eb3301bc43f5f118cbdb13d9722c8067f83c02368fbc850a96fb64"
+      "size": 415,
+      "hash": "81c14742c441d255c3a0f7e965eae16a298167957f867f035a547b3b2930d461"
     },
     {
       "path": "Data/InGameShopScript/512.2011.006/IBSComingSoon.txt",
-      "size": 328,
-      "hash": "267fe124043f1b37157b21baceb6f724965f894d19f0cb5e68e7689cdc284b44"
+      "size": 403,
+      "hash": "4a00b9288e72c81f74de77249b7ae86246c449c5af88a9f2ac00ed2af1c55371"
     },
     {
       "path": "Data/InGameShopScript/512.2011.006/IBSPackage.txt",
-      "size": 13815,
-      "hash": "eab6aa89e5fd3bd3caffd13284238dce5ebde7e260df07c2314001b0c14fc0bb"
+      "size": 13904,
+      "hash": "b1c686eab038e812d92ce7c5aedff650d8935aaa30fab16877885f4fad100a1c"
     },
     {
       "path": "Data/InGameShopScript/512.2011.006/IBSProduct.txt",
-      "size": 10667,
-      "hash": "30f3c27e76eb2e1942fb772c120f389a061631222084fb79c3d87891a3df6d78"
+      "size": 10723,
+      "hash": "0e7bf00d3da1f8f9a34ab7950f1c24ba6c0d01bd16359afd8ac9c440100f0bca"
     },
     {
       "path": "Data/Interface/EventTime/et_icons.OZT",
@@ -2532,14 +2552,159 @@
       "hash": "36d5d23966d92eebf93ef0c641acf25e9231dae79bd6b0b5fdacdb94ffb9eea2"
     },
     {
+      "path": "Data/Interface/Gens/CloseX.OZT",
+      "size": 17159,
+      "hash": "b6d30a77634914ee25d0dd4f534e5e796e0b78038b816ff5cf5b8f5e2e818b26"
+    },
+    {
+      "path": "Data/Interface/Gens/CloseX_01.OZT",
+      "size": 17159,
+      "hash": "5a7c9485162a3c1315c960fb23a30520c1440e881e743221af39ec11c5881d04"
+    },
+    {
+      "path": "Data/Interface/Gens/TitleAdv.OZT",
+      "size": 52491,
+      "hash": "696533b9b92f8bc70ab6f79cd135c1428fa32c2cb54fa18822e2f3540b46c8a1"
+    },
+    {
+      "path": "Data/Interface/InGameShop/ingame_Bt_Transfer.OZT",
+      "size": 7548,
+      "hash": "6a4ab950bcc02a0d95a2fbbd6f4923794c34d6dcca833196eb38b588c12d8b15"
+    },
+    {
+      "path": "Data/Interface/MasterSkill/remaster_btn.OZT",
+      "size": 131094,
+      "hash": "c6f014dca4c8332c9f3d3c976f227282406e6a86d331f2d3af097b7c4a81ccc8"
+    },
+    {
       "path": "Data/Interface/MixGuide/mg_icons.OZT",
       "size": 65584,
       "hash": "6d795d5eaa5a8635c4fbdbb4ddda34b2bfa897ef723eb26aa308a64e01e33039"
     },
     {
+      "path": "Data/Interface/NpcIcon/10060.OZT",
+      "size": 16433,
+      "hash": "4d015841a98702326e3b2d1d0b904a31244d4cae021133fe7d62d6791b4b0e94"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/10110.OZT",
+      "size": 16433,
+      "hash": "e54101a254b62c7d160d973dc1c1add2e7a381e3265d80d89cb4f3af0bb87bc1"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/10120.OZT",
+      "size": 16433,
+      "hash": "d6e2d973b071003f4de2c4884e90ef54794f962809b62b74b7b63f6cac15831a"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/3021.OZT",
+      "size": 16433,
+      "hash": "f24f18167913c7d5bafe5e97a71686eb5997273a1df8770073c912ae66ea55b3"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/ActionBarsView_I37.OZT",
+      "size": 16433,
+      "hash": "a22e3906ea5c66cc10c505f68f9c2d3aec3223b04ba9b468e2b907581f6d7de6"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/CashshopCategory_21.OZT",
+      "size": 16433,
+      "hash": "6df7a69bdfd74d5b66e0555ad1b941b8c6232d1e436322916f5e1cea5a1e0847"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/Knights_1.OZT",
+      "size": 16433,
+      "hash": "e2f88d139e9a744aacb8527c937c76677e3eb88e70097bec6ccc256c3f84b55c"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/LetterD.OZT",
+      "size": 16433,
+      "hash": "1796efadf031b195a37be9cb0fc8fc1339d008f65659f718156ffd657f429797"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/NpcIcon.txt",
+      "size": 5648,
+      "hash": "d8715ae44b314e80ba12e438bac5e244cdad30630feb0828b98d4121d4468201"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/Quests.OZT",
+      "size": 16433,
+      "hash": "9e5665d721bfd6a37584f7e4436220da93cfc4d72fd81e887d1e11c06fbd027d"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/Socket.OZT",
+      "size": 16433,
+      "hash": "1515c268785f31e72ba6ca446cc5107736985e33d213bd90bcf78aa94bbb6611"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/Socket1.OZT",
+      "size": 16433,
+      "hash": "f1c6ea0d7bf3b6ddc47e67160156b825a8e0ef0a6d41cad4868f3ead56559055"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I242.OZT",
+      "size": 16433,
+      "hash": "bfecd36891f3d007698681ed54cb40b702ec9128c097f383ffe2f43ca2fe5435"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I244.OZT",
+      "size": 16433,
+      "hash": "4bd612cb5fa0291d90b9f9a56cf0ef435a8cb3832ac77369426a94afe11e550c"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I246.OZT",
+      "size": 16433,
+      "hash": "4abbafc2982106731e9314d421f77d2877d248d9a79713181cc37a2f779818a2"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I24A.OZT",
+      "size": 16433,
+      "hash": "7608260cb4602640848e49de32ee615055cffbb849fec01babd25a25e5a54d61"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I24C.OZT",
+      "size": 16433,
+      "hash": "c1c6aa45b4516ba401aea4f894454a832d8291cc42a66a74b6ed08725046d239"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I24E.OZT",
+      "size": 16433,
+      "hash": "104e708b0e665a5b8b1c626820932e1b919307ef126923de2ac8ac193030c252"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I25C.OZT",
+      "size": 16433,
+      "hash": "f7f7640a71e02740d5bee743966403c6c8dd8514247f28564bcd52bf2cab126a"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I26C.OZT",
+      "size": 16433,
+      "hash": "25b81efea3e7d32d6bf4fa5518dfc931f0fd20b617f5d03f90605f189debc2ae"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I284.OZT",
+      "size": 16433,
+      "hash": "0efd3e763b9cd12582c446d230993b975dbe4fc0f3157f41ec52090e507d0b67"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I2A6.OZT",
+      "size": 16433,
+      "hash": "65fec1d501fcd566ad95c1f74526b2b1dfe8129a8e4eba7dd69da147b0edf847"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I2D4.OZT",
+      "size": 16433,
+      "hash": "d22e2a1ae63c97f420fd067c1233705715856b1923cd9c7b3ad2fed2536cf519"
+    },
+    {
+      "path": "Data/Interface/NpcIcon/UIKit_I32C.OZT",
+      "size": 16433,
+      "hash": "e7fd53a6950225fdb7664a5cb9a486bfe5e34ff435e8e17ced9b615c53c16431"
+    },
+    {
       "path": "Data/Local/Eng/client-setting.lang",
-      "size": 88952,
-      "hash": "b1536e1be24b77d4d55ecebea4b6b07a892b1e788bb86abbc306cf0456656c38"
+      "size": 108923,
+      "hash": "03cc7b77a41dedbe4542d5cbbed37c0c32c89071c62cfedbb304970791199515"
     },
     {
       "path": "Data/Local/Eng/Item.bmd",
@@ -2549,12 +2714,12 @@
     {
       "path": "Data/Local/Eng/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "dc08f59487e6ebd2e8c0eef63ba8641cdbd15077a03248408bf5afcabc2d407a"
+      "hash": "4a15bfea009ebdec406bf06d767e5ad470b11b5de79bd7d7f659b0a2e0530fdd"
     },
     {
       "path": "Data/Local/Eng/ItemTooltipText.bmd",
-      "size": 275344,
-      "hash": "6c21836864a3f31f060eea9cf4288648193ddf0b9f17beb057905b1fa9c71b87"
+      "size": 275604,
+      "hash": "88ee0f10d4776358088e3f98e2c761629c3e3ba2057f2cd3ef4643c469d438ab"
     },
     {
       "path": "Data/Local/Eng/Movereq.bmd",
@@ -2569,7 +2734,7 @@
     {
       "path": "Data/Local/Eng/Skill.bmd",
       "size": 57204,
-      "hash": "99ff23b44fdb80d4af2f9b621bc1f5c14f13f29fed6ccb6762c9d4f16dc25011"
+      "hash": "02d9009a6442b43a581c95574e3e7eed0c52b69560e9f128b9e98298b3378fe7"
     },
     {
       "path": "Data/Local/Eng/Text.bmd",
@@ -2578,8 +2743,8 @@
     },
     {
       "path": "Data/Local/Por/client-setting.lang",
-      "size": 91713,
-      "hash": "0ef662bb5f66049f8ebaa4aacdbcbf55a7589d38310b2c3bf19dcb8a4d0d363f"
+      "size": 112417,
+      "hash": "7425118e27d6337a95eec16f00abcfb82a99b0dfc98af40fbde86e13e150cbb3"
     },
     {
       "path": "Data/Local/Por/Item.bmd",
@@ -2589,12 +2754,12 @@
     {
       "path": "Data/Local/Por/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "a785b4f268a4d0493ebc8953bfe386f94e1fcc05eeae8a6532e7eb1fa6eef0de"
+      "hash": "e9210aabefa78d6607bcef5722885e7fd02ece3b72eb767e45001d9bd2620b58"
     },
     {
       "path": "Data/Local/Por/ItemTooltipText.bmd",
-      "size": 275344,
-      "hash": "4fb031dcc043eaa0c578a2615e4868f1a59b793d43f43a6c8ffb737005b455a6"
+      "size": 275604,
+      "hash": "6ce7fef3488eb262f41a2ad30b9af9e9bcc252efffdc8f010dec9e4903367221"
     },
     {
       "path": "Data/Local/Por/Movereq.bmd",
@@ -2609,7 +2774,7 @@
     {
       "path": "Data/Local/Por/Skill.bmd",
       "size": 57204,
-      "hash": "99ff23b44fdb80d4af2f9b621bc1f5c14f13f29fed6ccb6762c9d4f16dc25011"
+      "hash": "02d9009a6442b43a581c95574e3e7eed0c52b69560e9f128b9e98298b3378fe7"
     },
     {
       "path": "Data/Local/Por/Text.bmd",
@@ -2618,8 +2783,8 @@
     },
     {
       "path": "Data/Local/Spn/client-setting.lang",
-      "size": 92822,
-      "hash": "a51af70c27036271b0dbf766866131042b3fd2d43704b0bc21bd9ab5425bbf16"
+      "size": 113888,
+      "hash": "50724721c8ce5ccf2dfeb713bc17b7e01a386399b4d5074caaefd47b28fa5141"
     },
     {
       "path": "Data/Local/Spn/Item.bmd",
@@ -2629,12 +2794,12 @@
     {
       "path": "Data/Local/Spn/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "d7acc77c398a3f53d2980f7ae199544500d596142ec4bde544c268fc8a56660d"
+      "hash": "ffde38bf9f437a35a7fcf2c819b4a00f648fd9af67ba6c30e77d33a6aa8b5240"
     },
     {
       "path": "Data/Local/Spn/ItemTooltipText.bmd",
-      "size": 275344,
-      "hash": "62464f73c7326f02e1af9e769d67a2293790496522d25d7593fbaf0b575f54d7"
+      "size": 275604,
+      "hash": "935722819e1e12dac0f4f4acc29875f0c31f7850c9ff4cbe26d603cf8d97ba96"
     },
     {
       "path": "Data/Local/Spn/Movereq.bmd",
@@ -2649,7 +2814,7 @@
     {
       "path": "Data/Local/Spn/Skill.bmd",
       "size": 57204,
-      "hash": "99ff23b44fdb80d4af2f9b621bc1f5c14f13f29fed6ccb6762c9d4f16dc25011"
+      "hash": "02d9009a6442b43a581c95574e3e7eed0c52b69560e9f128b9e98298b3378fe7"
     },
     {
       "path": "Data/Local/Spn/Text.bmd",
@@ -2662,6 +2827,41 @@
       "hash": "358bf441bacc6ea6e4ea5d7a450a8a17f3c52b3d47f2edf2f55622fd2824a3b7"
     },
     {
+      "path": "Data/PostProcess/maps/map18.ini",
+      "size": 627,
+      "hash": "c860dbb95c4af24113d729ca56051afd25cd407b7852617caa04633237dc9c2b"
+    },
+    {
+      "path": "Data/PostProcess/maps/map19.ini",
+      "size": 627,
+      "hash": "2e189262df7a930ac5ac88369c2846b74d2d7207ca420f869714199fae7b574f"
+    },
+    {
+      "path": "Data/PostProcess/maps/map2.ini",
+      "size": 14062,
+      "hash": "7fbeb022b5e60e4d6f31715194fbc0cc575ba9a3146f447bcd616cebb42da536"
+    },
+    {
+      "path": "Data/PostProcess/maps/map20.ini",
+      "size": 627,
+      "hash": "82feaf9006d632c11cbf235169d9ccc810c0afa050a8b6dbd0315aa879cb1b05"
+    },
+    {
+      "path": "Data/PostProcess/maps/map21.ini",
+      "size": 627,
+      "hash": "f634b3a590270a333e6a0ea54852d8bd02308f4f90c501488069a4173d195dab"
+    },
+    {
+      "path": "Data/PostProcess/maps/map22.ini",
+      "size": 627,
+      "hash": "b1fdfc7d4eacaf29d79b7b3183f19c251c8ef99ca64a503717d89df4a4e8155e"
+    },
+    {
+      "path": "Data/PostProcess/maps/map23.ini",
+      "size": 627,
+      "hash": "b5604f20cf254d0d56fa7ea774a5a13c202259f41721a0a208f5fce5ee6dcdc7"
+    },
+    {
       "path": "Data/PostProcess/maps/map3.ini",
       "size": 12656,
       "hash": "6e487dea66271dcfa0a994a29c4361d9645bae5a99bf083019d05f20aa455b69"
@@ -2672,14 +2872,19 @@
       "hash": "0410f91dcef433d913c7e18047dbee2559e224e005bf85df9abc5fcd1d377a59"
     },
     {
+      "path": "Data/PostProcess/maps/map53.ini",
+      "size": 8678,
+      "hash": "6a5d7f8fadc7012f7e0270bcbc5c7632b44c77c6d978437b374341d5449f6846"
+    },
+    {
       "path": "Data/Update/Legend/Main.exe",
-      "size": 22977536,
-      "hash": "89b1bca557fa3997084552f95706bed70e40cf18481f87590befe714a8ad9608"
+      "size": 23269888,
+      "hash": "56a9aca8fc5703fda847514a5f515d33f35dde0431402aa48c9a8f2cd89d06f0"
     },
     {
       "path": "Data/Update/Original/Main.exe",
-      "size": 22977536,
-      "hash": "89b1bca557fa3997084552f95706bed70e40cf18481f87590befe714a8ad9608"
+      "size": 23269888,
+      "hash": "56a9aca8fc5703fda847514a5f515d33f35dde0431402aa48c9a8f2cd89d06f0"
     },
     {
       "path": "Excluir/Data/World1/TileGround01x_n.OZJ",
@@ -4507,6 +4712,141 @@
       "hash": "29925b31d5727d483f27d0c633de64797d90144981a3c6ab9d5bee2f3dfd5120"
     },
     {
+      "path": "Data/Interface/InGameShop/Legends/IGS_Storage_Page.ozt",
+      "size": 10143,
+      "hash": "d5250df6fcf98fc842a04d773f52b30e8a645aca945e17fd46ccbdf23417b722"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/IGS_Storage_Page_Left.ozt",
+      "size": 5823,
+      "hash": "bf29c59448cf47b582e23c709788979512d9c1d7b1dc766eb4cc2309e0f356c2"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/IGS_Storage_Page_Right.ozt",
+      "size": 5823,
+      "hash": "a1690d3d54119de5f55bbb79b53842b7d61a522c798e8096d24d3bbbc753ed6e"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_banner.ozj",
+      "size": 11259,
+      "hash": "e5b8f38324c4ac349fd4d63c3c51d7635b0058d52dfbedfcc3b2d87a1f4ad00c"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Box.ozt",
+      "size": 26783,
+      "hash": "9139b6c67a4d14a8fa6f01ebb2e99f1a077980cd05d619bc0eadf5e2aa413dd1"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Box_List_A.ozt",
+      "size": 170223,
+      "hash": "8ce7b7788ae8ecc682e88b3826b5cf5464e36c1d8f251e305bb3e9a7acbf965e"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Box_List_B.ozt",
+      "size": 257583,
+      "hash": "8c5c1b7736c7007e1d0cbc7c70eed33ec178f8baa3c49a8d87a05f597f846b1c"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt01.ozt",
+      "size": 24195,
+      "hash": "abe8f1c8216ce87149c141bce3e498c87eb0b176ea599eb42cde9cf911a083a0"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt03.ozt",
+      "size": 16767,
+      "hash": "378fd372a7bc552b20182aaf8125e72a88b976e2cd62c36306ca89d089f562e2"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt_Cash.ozt",
+      "size": 7522,
+      "hash": "377c84574ef0258f8d65222ee691c752b87d7c011e233b93f390be4096c03fe0"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt_Gift.ozt",
+      "size": 7522,
+      "hash": "76b1fc91bb016e9d6998a2cdf9aea32126dfc181bf4d840e63b378bd7501274d"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt_page_L.ozt",
+      "size": 6063,
+      "hash": "5aa5a4d72a92751e2778502cd9fe8b561810ea74dded3370d5468f406d0bd745"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt_page_R.ozt",
+      "size": 6063,
+      "hash": "56d812b4c0900040cf9e15b537e7539f8b3ac15cdc90af61010d10cc970f85f1"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Bt_Reset.ozt",
+      "size": 7522,
+      "hash": "8d839cea90a17d91afc50ad036d67e31ade08598d28e68dd07437f150fc63b4a"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_gift_back01.ozt",
+      "size": 224823,
+      "hash": "21ad5aa1fb2843b82829f4d356ca2548c24bc44d943c83dcf541a7ebbd71f970"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_gift_icon.ozt",
+      "size": 1340,
+      "hash": "a19351597562d10ac25de0ca162ebe9e8c125ea8bd5d57106c2738d0b1dd9067"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_gift_namebox.ozt",
+      "size": 5216,
+      "hash": "062b00f577bae7485f0e03d07c98216ec65d84f1234ce6f9d419459f0c7ec1e6"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_itembox_logo.ozt",
+      "size": 13044,
+      "hash": "7049cb1650e05b2fec862d40fde4042df4acd5b04431410eafa39f6bf557d09b"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_pack_back01.ozt",
+      "size": 230494,
+      "hash": "8c6184758db9c7fc7f3199e445750091e706a82243e5016ce4ae13cad6b142b7"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_pack_back03.ozt",
+      "size": 298103,
+      "hash": "6da405913416ce023609a84be400e8c326edafd3b2a61c3b7dde437892e306ef"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_pack_check.ozt",
+      "size": 2748,
+      "hash": "8df0a30dfdf651b5b1254357673e6d609a9f8a99e9695ca2223365c22c9c14ec"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/Ingame_Shopback.ozt",
+      "size": 1098783,
+      "hash": "04a42c4da125a9654997418aa456a7d579c62ae9f93f90bb4a9bf87fa59e4168"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Tab01.ozt",
+      "size": 16406,
+      "hash": "6ac4e1a334e1e8c3c576cbde0c93c07cfabbcd2187dcf5b88fb116251014644d"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Tab02.ozt",
+      "size": 16406,
+      "hash": "0eb48c7d54526c32255850a1e6e66693d8f221baf6f900218597a223c5094839"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Tab_dim.OZT",
+      "size": 16406,
+      "hash": "158640993f79ae7bd15624d580a0127f9c6b15f2e692b760d10ab0dd4e0d644c"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Tab_gift.OZT",
+      "size": 16406,
+      "hash": "31da68d04b7159faf4019898384d435c24203704247d9a6235ced9aae23da592"
+    },
+    {
+      "path": "Data/Interface/InGameShop/Legends/ingame_Tab_Up.ozt",
+      "size": 14527,
+      "hash": "2a559252b2fa498f1976f902d219345a0cacbd8858ae7eb495eaadf38ae632f8"
+    },
+    {
       "path": "Data/Interface/Pegasus/Pegasus_Dungeon/Pegasus_Dungeon_I19.OZT",
       "size": 9238,
       "hash": "a0b089f7f0d5ed51fe0477ed88125e527a4c43dedd017211755a816fec35348d"
@@ -4918,13 +5258,13 @@
     },
     {
       "path": "Data/Update/Legend/Data/av-code45.pak",
-      "size": 189561,
-      "hash": "0275a48b499f8d8b4c03cd85a2df8aedf320e2598e7d321579bf82cd594b3ea1"
+      "size": 189573,
+      "hash": "eeef519074e32040ddc34cd011b40037914ca0af44eb798834d7e6d9bf1890db"
     },
     {
       "path": "Data/Update/Original/Data/av-code45.pak",
-      "size": 189561,
-      "hash": "ed834f461ad527c0401f268227515da29660dd5337b4a3824f682c81bbba6619"
+      "size": 189573,
+      "hash": "b98f06042f55b82a6986c7095053c0d0d7b54d72b6e900ac955d4169f5b356ef"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Connect.msil",
@@ -4938,33 +5278,33 @@
     },
     {
       "path": "Data/Update/Legend/Data/Local/Eng/client-setting.lang",
-      "size": 88952,
-      "hash": "b1536e1be24b77d4d55ecebea4b6b07a892b1e788bb86abbc306cf0456656c38"
+      "size": 108923,
+      "hash": "03cc7b77a41dedbe4542d5cbbed37c0c32c89071c62cfedbb304970791199515"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Por/client-setting.lang",
-      "size": 91713,
-      "hash": "0ef662bb5f66049f8ebaa4aacdbcbf55a7589d38310b2c3bf19dcb8a4d0d363f"
+      "size": 112417,
+      "hash": "7425118e27d6337a95eec16f00abcfb82a99b0dfc98af40fbde86e13e150cbb3"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Spn/client-setting.lang",
-      "size": 92822,
-      "hash": "a51af70c27036271b0dbf766866131042b3fd2d43704b0bc21bd9ab5425bbf16"
+      "size": 113888,
+      "hash": "50724721c8ce5ccf2dfeb713bc17b7e01a386399b4d5074caaefd47b28fa5141"
     },
     {
       "path": "Data/Update/Original/Data/Local/Eng/client-setting.lang",
-      "size": 88952,
-      "hash": "b1536e1be24b77d4d55ecebea4b6b07a892b1e788bb86abbc306cf0456656c38"
+      "size": 108923,
+      "hash": "03cc7b77a41dedbe4542d5cbbed37c0c32c89071c62cfedbb304970791199515"
     },
     {
       "path": "Data/Update/Original/Data/Local/Por/client-setting.lang",
-      "size": 91713,
-      "hash": "0ef662bb5f66049f8ebaa4aacdbcbf55a7589d38310b2c3bf19dcb8a4d0d363f"
+      "size": 112417,
+      "hash": "7425118e27d6337a95eec16f00abcfb82a99b0dfc98af40fbde86e13e150cbb3"
     },
     {
       "path": "Data/Update/Original/Data/Local/Spn/client-setting.lang",
-      "size": 92822,
-      "hash": "a51af70c27036271b0dbf766866131042b3fd2d43704b0bc21bd9ab5425bbf16"
+      "size": 113888,
+      "hash": "50724721c8ce5ccf2dfeb713bc17b7e01a386399b4d5074caaefd47b28fa5141"
     }
   ]
 }
